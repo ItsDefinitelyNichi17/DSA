@@ -3,6 +3,7 @@ import java.util.Arrays;
 
 class binary{
     public static void main (String [] args){
+        //find the target Num
         int nums[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}; // len 20 index 19
         int targetNum = 17;
         int middleIndex;
